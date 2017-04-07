@@ -1,0 +1,29 @@
+{
+  "name": "slide-clicker",
+  "version": "1.0.0",
+  "description": "A tiny node script to turn a Metawear C into a viable slide clicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimterry/slide-clicker.git"
+  },
+  "keywords": [
+    "metawear",
+    "slides",
+    "slide-clicker",
+    "iot"
+  ],
+  "author": "Tim Perry <pimterry@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimterry/slide-clicker/issues"
+  },
+  "homepage": "https://github.com/pimterry/slide-clicker#readme",
+  "dependencies": {
+    "node-metawear": "^0.3.7",
+    "robotjs": "^0.4.7"
+  }
+}
